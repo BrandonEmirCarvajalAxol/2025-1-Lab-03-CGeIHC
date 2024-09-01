@@ -1,0 +1,23 @@
+﻿  E03-317164251.cpp
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(27,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(194,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(236,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(236,32): warning C4244:         with
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(236,32): warning C4244:         [
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(236,32): warning C4244:             _Ty=GLfloat
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(236,32): warning C4244:         ]
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(238,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(238,32): warning C4244:         with
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(238,32): warning C4244:         [
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(238,32): warning C4244:             _Ty=GLfloat
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(238,32): warning C4244:         ]
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(334,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Practica03\E03-317164251.cpp(336,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código
+  315 of 603 functions (52.2%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Practica03.vcxproj -> C:\Users\brand\OneDrive\Escritorio\CG\P3\P3\Practica03\Release\Practica03.exe
