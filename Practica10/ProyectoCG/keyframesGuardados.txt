@@ -1,0 +1,173 @@
+KeyFrame[0].movAvion_x = 0.00
+KeyFrame[0].movAvion_y = 1.00
+KeyFrame[0].movAvion_z = 0.00
+KeyFrame[0].giroAvion = 0.00
+
+
+KeyFrame[1].movAvion_x = 0.00
+KeyFrame[1].movAvion_y = 2.00
+KeyFrame[1].movAvion_z = 0.00
+KeyFrame[1].giroAvion = 0.00
+
+
+KeyFrame[2].movAvion_x = 0.00
+KeyFrame[2].movAvion_y = 3.00
+KeyFrame[2].movAvion_z = 0.00
+KeyFrame[2].giroAvion = 0.00
+
+
+KeyFrame[3].movAvion_x = 0.00
+KeyFrame[3].movAvion_y = 4.00
+KeyFrame[3].movAvion_z = 0.00
+KeyFrame[3].giroAvion = 0.00
+
+
+KeyFrame[4].movAvion_x = 0.00
+KeyFrame[4].movAvion_y = 5.00
+KeyFrame[4].movAvion_z = 0.00
+KeyFrame[4].giroAvion = 0.00
+
+
+KeyFrame[5].movAvion_x = 0.00
+KeyFrame[5].movAvion_y = 10.00
+KeyFrame[5].movAvion_z = 0.00
+KeyFrame[5].giroAvion = 0.00
+
+
+KeyFrame[6].movAvion_x = 0.00
+KeyFrame[6].movAvion_y = 14.00
+KeyFrame[6].movAvion_z = 0.00
+KeyFrame[6].giroAvion = 0.00
+
+
+KeyFrame[7].movAvion_x = 0.00
+KeyFrame[7].movAvion_y = 19.00
+KeyFrame[7].movAvion_z = 0.00
+KeyFrame[7].giroAvion = 0.00
+
+
+KeyFrame[8].movAvion_x = 0.00
+KeyFrame[8].movAvion_y = 91.00
+KeyFrame[8].movAvion_z = 0.00
+KeyFrame[8].giroAvion = 90.00
+
+
+KeyFrame[9].movAvion_x = -20.00
+KeyFrame[9].movAvion_y = 91.00
+KeyFrame[9].movAvion_z = 0.00
+KeyFrame[9].giroAvion = 90.00
+
+
+KeyFrame[10].movAvion_x = -31.00
+KeyFrame[10].movAvion_y = 91.00
+KeyFrame[10].movAvion_z = 0.00
+KeyFrame[10].giroAvion = 90.00
+
+
+KeyFrame[11].movAvion_x = 60.00
+KeyFrame[11].movAvion_y = 91.00
+KeyFrame[11].movAvion_z = 0.00
+KeyFrame[11].giroAvion = 90.00
+
+
+KeyFrame[12].movAvion_x = 96.00
+KeyFrame[12].movAvion_y = 91.00
+KeyFrame[12].movAvion_z = 34.00
+KeyFrame[12].giroAvion = 0.00
+
+
+KeyFrame[13].movAvion_x = 96.00
+KeyFrame[13].movAvion_y = 91.00
+KeyFrame[13].movAvion_z = 98.00
+KeyFrame[13].giroAvion = 0.00
+
+
+KeyFrame[14].movAvion_x = 54.00
+KeyFrame[14].movAvion_y = 91.00
+KeyFrame[14].movAvion_z = 127.00
+KeyFrame[14].giroAvion = -90.00
+
+
+KeyFrame[15].movAvion_x = -14.00
+KeyFrame[15].movAvion_y = 91.00
+KeyFrame[15].movAvion_z = 127.00
+KeyFrame[15].giroAvion = -90.00
+
+
+KeyFrame[16].movAvion_x = -71.00
+KeyFrame[16].movAvion_y = 91.00
+KeyFrame[16].movAvion_z = 127.00
+KeyFrame[16].giroAvion = -90.00
+
+
+KeyFrame[17].movAvion_x = -105.00
+KeyFrame[17].movAvion_y = 91.00
+KeyFrame[17].movAvion_z = 87.00
+KeyFrame[17].giroAvion = -180.00
+
+
+KeyFrame[18].movAvion_x = -105.00
+KeyFrame[18].movAvion_y = 91.00
+KeyFrame[18].movAvion_z = 15.00
+KeyFrame[18].giroAvion = -180.00
+
+
+KeyFrame[19].movAvion_x = -91.00
+KeyFrame[19].movAvion_y = 91.00
+KeyFrame[19].movAvion_z = -5.00
+KeyFrame[19].giroAvion = -270.00
+
+
+KeyFrame[20].movAvion_x = -26.00
+KeyFrame[20].movAvion_y = 91.00
+KeyFrame[20].movAvion_z = -5.00
+KeyFrame[20].giroAvion = -270.00
+
+
+KeyFrame[21].movAvion_x = -4.00
+KeyFrame[21].movAvion_y = 44.00
+KeyFrame[21].movAvion_z = -5.00
+KeyFrame[21].giroAvion = -360.00
+
+
+KeyFrame[22].movAvion_x = -4.00
+KeyFrame[22].movAvion_y = 43.00
+KeyFrame[22].movAvion_z = -5.00
+KeyFrame[22].giroAvion = -360.00
+
+
+KeyFrame[23].movAvion_x = -4.00
+KeyFrame[23].movAvion_y = 32.00
+KeyFrame[23].movAvion_z = -5.00
+KeyFrame[23].giroAvion = -360.00
+
+
+KeyFrame[24].movAvion_x = -4.00
+KeyFrame[24].movAvion_y = 29.00
+KeyFrame[24].movAvion_z = -5.00
+KeyFrame[24].giroAvion = -360.00
+
+
+KeyFrame[25].movAvion_x = -4.00
+KeyFrame[25].movAvion_y = 23.00
+KeyFrame[25].movAvion_z = -5.00
+KeyFrame[25].giroAvion = -360.00
+
+
+KeyFrame[26].movAvion_x = -4.00
+KeyFrame[26].movAvion_y = 22.00
+KeyFrame[26].movAvion_z = -5.00
+KeyFrame[26].giroAvion = -360.00
+
+
+KeyFrame[27].movAvion_x = -4.00
+KeyFrame[27].movAvion_y = 8.00
+KeyFrame[27].movAvion_z = -5.00
+KeyFrame[27].giroAvion = -360.00
+
+
+KeyFrame[28].movAvion_x = -4.00
+KeyFrame[28].movAvion_y = 4.00
+KeyFrame[28].movAvion_z = -5.00
+KeyFrame[28].giroAvion = -360.00
+

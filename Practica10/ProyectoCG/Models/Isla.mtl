@@ -1,0 +1,47 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 02.11.2024 13:23:12
+
+newmtl 08___Default
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.9000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd Sand.jpg
+
+newmtl 07___Default
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.9000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd Tree.jpg
+
+newmtl 03___Default
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.9000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd Leaf.jpg

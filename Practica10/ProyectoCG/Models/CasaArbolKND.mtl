@@ -1,0 +1,1192 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 01.11.2024 13:02:38
+
+newmtl mat4
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface14SG_baseColor.png
+	bump aiStandardSurface14SG_normal.png
+	map_bump aiStandardSurface14SG_normal.png
+
+newmtl mat6
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface16SG_baseColor.png
+	bump aiStandardSurface16SG_normal.png
+	map_bump aiStandardSurface16SG_normal.png
+
+newmtl mat11
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface20SG_baseColor.png
+	bump aiStandardSurface20SG_normal.png
+	map_bump aiStandardSurface20SG_normal.png
+
+newmtl mat13
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface23SG_baseColor.png
+	bump aiStandardSurface23SG_normal.png
+	map_bump aiStandardSurface23SG_normal.png
+
+newmtl mat18
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface3SG_baseColor.png
+	bump aiStandardSurface3SG_normal.png
+	map_bump aiStandardSurface3SG_normal.png
+
+newmtl mat24
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface71SG_baseColor.png
+	bump aiStandardSurface71SG_normal.png
+	map_bump aiStandardSurface71SG_normal.png
+
+newmtl mat30
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set25_baseColor.png
+	bump set25_normal.png
+	map_bump set25_normal.png
+
+newmtl mat39
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set34_baseColor.png
+	bump set34_normal.png
+	map_bump set34_normal.png
+
+newmtl mat0
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface10SG_baseColor.png
+	bump aiStandardSurface10SG_normal.png
+	map_bump aiStandardSurface10SG_normal.png
+
+newmtl mat1
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface11SG_baseColor.png
+	bump aiStandardSurface11SG_normal.png
+	map_bump aiStandardSurface11SG_normal.png
+
+newmtl mat2
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface12SG_baseColor.png
+	bump aiStandardSurface12SG_normal.png
+	map_bump aiStandardSurface12SG_normal.png
+
+newmtl mat3
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface13SG_baseColor.png
+	bump aiStandardSurface13SG_normal.png
+	map_bump aiStandardSurface13SG_normal.png
+
+newmtl mat5
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface15SG_baseColor.png
+	bump aiStandardSurface15SG_normal.png
+	map_bump aiStandardSurface15SG_normal.png
+
+newmtl mat7
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface17SG_baseColor.png
+	bump aiStandardSurface17SG_normal.png
+	map_bump aiStandardSurface17SG_normal.png
+
+newmtl mat8
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface18SG_baseColor.png
+	bump aiStandardSurface18SG_normal.png
+	map_bump aiStandardSurface18SG_normal.png
+
+newmtl mat9
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface19SG_baseColor.png
+	bump aiStandardSurface19SG_normal.png
+	map_bump aiStandardSurface19SG_normal.png
+
+newmtl mat10
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface1SG_baseColor.png
+	bump aiStandardSurface1SG_normal.png
+	map_bump aiStandardSurface1SG_normal.png
+
+newmtl mat12
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface21SG_baseColor.png
+	bump aiStandardSurface21SG_normal.png
+	map_bump aiStandardSurface21SG_normal.png
+
+newmtl mat14
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface24SG_baseColor.png
+	bump aiStandardSurface24SG_normal.png
+	map_bump aiStandardSurface24SG_normal.png
+
+newmtl mat15
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface25SG_baseColor.png
+	bump aiStandardSurface25SG_normal.png
+	map_bump aiStandardSurface25SG_normal.png
+
+newmtl mat16
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface26SG_baseColor.png
+	bump aiStandardSurface26SG_normal.png
+	map_bump aiStandardSurface26SG_normal.png
+
+newmtl mat17
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface2SG_baseColor.png
+	bump aiStandardSurface2SG_normal.png
+	map_bump aiStandardSurface2SG_normal.png
+
+newmtl mat19
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface4SG_baseColor.png
+	bump aiStandardSurface4SG_normal.png
+	map_bump aiStandardSurface4SG_normal.png
+
+newmtl mat20
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface5SG_baseColor.png
+	bump aiStandardSurface5SG_normal.png
+	map_bump aiStandardSurface5SG_normal.png
+
+newmtl mat21
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface62SG_baseColor.png
+	bump aiStandardSurface62SG_normal.png
+	map_bump aiStandardSurface62SG_normal.png
+
+newmtl mat22
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface6SG_baseColor.png
+	bump aiStandardSurface6SG_normal.png
+	map_bump aiStandardSurface6SG_normal.png
+
+newmtl mat23
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface70SG_baseColor.png
+	bump aiStandardSurface70SG_normal.png
+	map_bump aiStandardSurface70SG_normal.png
+
+newmtl mat25
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface7SG_baseColor.png
+	bump aiStandardSurface7SG_normal.png
+	map_bump aiStandardSurface7SG_normal.png
+
+newmtl mat26
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface8SG_baseColor.png
+	bump aiStandardSurface8SG_normal.png
+	map_bump aiStandardSurface8SG_normal.png
+
+newmtl mat27
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd aiStandardSurface9SG_baseColor.png
+	bump aiStandardSurface9SG_normal.png
+	map_bump aiStandardSurface9SG_normal.png
+
+newmtl mat28
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set22_baseColor.png
+	bump set22_normal.png
+	map_bump set22_normal.png
+
+newmtl mat29
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set24_baseColor.png
+	bump set24_normal.png
+	map_bump set24_normal.png
+
+newmtl mat31
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set26_baseColor.png
+	bump set26_normal.png
+	map_bump set26_normal.png
+
+newmtl mat33
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set28_baseColor.png
+	bump set28_normal.png
+	map_bump set28_normal.png
+
+newmtl mat32
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set27_baseColor.png
+	bump set27_normal.png
+	map_bump set27_normal.png
+
+newmtl mat34
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set29_baseColor.png
+	bump set29_normal.png
+	map_bump set29_normal.png
+
+newmtl mat35
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set30_baseColor.png
+	bump set30_normal.png
+	map_bump set30_normal.png
+
+newmtl mat36
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set31_baseColor.png
+	bump set31_normal.png
+	map_bump set31_normal.png
+
+newmtl mat37
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set32_baseColor.png
+	bump set32_normal.png
+	map_bump set32_normal.png
+
+newmtl mat38
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set33_baseColor.png
+	bump set33_normal.png
+	map_bump set33_normal.png
+
+newmtl mat40
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set35_baseColor.png
+	bump set35_normal.png
+	map_bump set35_normal.png
+
+newmtl mat41
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set36_baseColor.png
+	bump set36_normal.png
+	map_bump set36_normal.png
+
+newmtl mat42
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set37_baseColor.png
+	bump set37_normal.png
+	map_bump set37_normal.png
+
+newmtl mat43
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set38_baseColor.png
+	bump set38_normal.png
+	map_bump set38_normal.png
+
+newmtl mat44
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set39_baseColor.png
+	bump set39_normal.png
+	map_bump set39_normal.png
+
+newmtl mat45
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set40_baseColor.png
+	bump set40_normal.png
+	map_bump set40_normal.png
+
+newmtl mat46
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set41_baseColor.png
+	bump set41_normal.png
+	map_bump set41_normal.png
+
+newmtl mat47
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set42_baseColor.png
+	bump set42_normal.png
+	map_bump set42_normal.png
+
+newmtl mat48
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set43_baseColor.png
+	bump set43_normal.png
+	map_bump set43_normal.png
+
+newmtl mat49
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set44_baseColor.png
+	bump set44_normal.png
+	map_bump set44_normal.png
+
+newmtl mat50
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set45_baseColor.png
+	bump set45_normal.png
+	map_bump set45_normal.png
+
+newmtl mat51
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set46_baseColor.png
+	bump set46_normal.png
+	map_bump set46_normal.png
+
+newmtl mat52
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set47_baseColor.png
+	bump set47_normal.png
+	map_bump set47_normal.png
+
+newmtl mat53
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set48_baseColor.png
+	bump set48_normal.png
+	map_bump set48_normal.png
+
+newmtl mat54
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set49_baseColor.png
+	bump set49_normal.png
+	map_bump set49_normal.png
+
+newmtl mat55
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set50_baseColor.png
+	bump set50_normal.png
+	map_bump set50_normal.png
+
+newmtl mat56
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set51_baseColor.png
+	bump set49_normal.png
+	map_bump set49_normal.png
+
+newmtl mat57
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set52_baseColor.png
+	bump set52_normal.png
+	map_bump set52_normal.png
+
+newmtl mat58
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set53_baseColor.png
+	bump set53_normal.png
+	map_bump set53_normal.png
+
+newmtl mat59
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set54_baseColor.png
+	bump set54_normal.png
+	map_bump set54_normal.png
+
+newmtl mat60
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set55_baseColor.png
+	bump set55_normal.png
+	map_bump set55_normal.png
+
+newmtl mat61
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set56_baseColor.png
+	bump set56_normal.png
+	map_bump set56_normal.png
+
+newmtl mat62
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set57_baseColor.png
+	bump set57_normal.png
+	map_bump set57_normal.png
+
+newmtl mat63
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set58_baseColor.png
+	bump set58_normal.png
+	map_bump set58_normal.png
+
+newmtl mat64
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set59_baseColor.png
+	bump set59_normal.png
+	map_bump set59_normal.png
+
+newmtl mat65
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set60_baseColor.png
+	bump set60_normal.png
+	map_bump set60_normal.png
+
+newmtl mat66
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set61_baseColor.png
+	bump set61_normal.png
+	map_bump set61_normal.png
+
+newmtl mat67
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set62_baseColor.png
+	bump set62_normal.png
+	map_bump set62_normal.png
+
+newmtl mat68
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set63_baseColor.png
+	bump set63_normal.png
+	map_bump set63_normal.png
+
+newmtl mat69
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 1.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd set64_baseColor.png
+	bump set64_normal.png
+	map_bump set64_normal.png
